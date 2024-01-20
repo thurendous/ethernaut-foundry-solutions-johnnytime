@@ -6,7 +6,6 @@ import "forge-std/Script.sol";
 import "forge-std/console.sol";
 
 contract VaultSolution is Script {
-
     Vault public valutInstance = Vault(0xcF7af82Ac269382E65A5De1C2E5D05e7BeBFdD91);
 
     function run() external {

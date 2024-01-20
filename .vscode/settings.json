@@ -1,3 +1,5 @@
 {
-    "security.olympix.project.includePath": "/src"
+  "security.olympix.project.includePath": "/src",
+  "solidity.packageDefaultDependenciesDirectory": ["node_modules", "lib"],
+  "solidity.packageDefaultDependenciesContractsDirectory": ""
 }
